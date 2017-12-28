@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\gerak.cs">
+    <Files>
+      <File FileName="Assets\script\gerak.cs" Line="72" Column="39" />
+      <File FileName="Assets\script\rotasi.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\obstacle.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\koin.cs" Line="16" Column="36" />
+      <File FileName="Assets\script\menuju.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\kembali.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\mati.cs" Line="11" Column="59" />
+      <File FileName="Assets\script\highscore.cs" Line="10" Column="29" />
+      <File FileName="Assets\script\score.cs" Line="10" Column="66" />
+      <File FileName="Assets\script\keluar.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
